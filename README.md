@@ -91,3 +91,10 @@
 ```bash
 g++ -o program program.cpp
 ./program
+
+**Java:**
+javac Program.java
+java Program
+
+**Python:**
+python program.py
