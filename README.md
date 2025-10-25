@@ -92,9 +92,9 @@
 g++ -o program program.cpp
 ./program
 
-**Java:**
+Java:
 javac Program.java
 java Program
 
-**Python:**
+Python:
 python program.py
